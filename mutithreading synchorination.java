@@ -1,6 +1,6 @@
 import java.io.*; 
 import java.util.*; 
-class Sender 
+class sender 
 { 
     public void send(String msg) 
     { 
